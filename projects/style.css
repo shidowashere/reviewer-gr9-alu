@@ -1,0 +1,23 @@
+body{
+    background-image: url(bshs.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#buttons{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   justify-content: space-around;
+   padding:10px;
+}
+
+#sci{
+    background-image: url(bshs.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
